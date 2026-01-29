@@ -1,39 +1,44 @@
-# Leibniz Integral Rule (Measure-Theoretic Proof)
+# Leibniz Integral Rule
 
-This repository contains a rigorous proof of differentiation under the integral sign
-(Leibniz Integral Rule) in a general measure-theoretic setting.
+This repository contains a rigorous proof of the Leibniz Integral Rule,
+also known as differentiation under the integral sign.
+
+The proof is written in a general measure-theoretic framework and uses
+standard tools from real analysis and Lebesgue integration.
 
 ## Content
 
-The document proves continuity, differentiability, and partial differentiability of
-parameter-dependent integrals using the Dominated Convergence Theorem.
+The document studies functions that depend on a parameter and shows how
+continuity and differentiability can be transferred inside the integral.
 
-More precisely, the following results are established:
+The following topics are covered:
 
-- Continuity of the map  
-  \[
-  x \mapsto \int_\Omega f(x,\omega)\, d\mu(\omega)
-  \]
-- Differentiation under the integral sign for one real parameter
-- Partial differentiation under the integral sign in \(\mathbb{R}^p\)
+- Continuity of parameter-dependent integrals
+- Differentiation under the integral sign for one real variable
+- Partial differentiation under the integral sign in several variables
+- Use of domination arguments and convergence theorems
 
-All proofs are written in a precise and explicit style, with full hypotheses stated.
+All assumptions are stated explicitly and all proofs are written in a
+detailed and rigorous way.
 
-## Mathematical Setting
+## Mathematical Context
 
-- \((\Omega, \mathcal{F}, \mu)\) is a measure space
-- Functions take values in \(\mathbb{R}\)
-- Integrability is understood in the Lebesgue sense
-- Differentiability is treated pointwise and justified via domination
+- General measure spaces
+- Real-valued functions
+- Lebesgue integrability
+- Pointwise differentiability
+- Justification using domination conditions
 
-## File
+## Files
 
-- `Leibniz Integral Rule.pdf` — complete proof
+- Leibniz Integral Rule.pdf  
+  Complete proof and definitions
 
 ## Author
 
 Moussa El Moussaoui
 
-## License
+## Purpose
 
-This work is provided for educational and academic purposes.
+This work is intended for educational and academic use, especially for
+students studying real analysis, measure theory, and integration.
