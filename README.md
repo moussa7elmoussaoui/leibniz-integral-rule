@@ -8,8 +8,8 @@ standard tools from real analysis and Lebesgue integration.
 
 ## Content
 
-The document studies functions that depend on a parameter and shows how
-continuity and differentiability can be transferred inside the integral.
+The document proves continuity, differentiability, and partial differentiability of
+parameter-dependent integrals using the Dominated Convergence Theorem.
 
 The following topics are covered:
 
@@ -31,8 +31,8 @@ detailed and rigorous way.
 
 ## Files
 
-- Leibniz Integral Rule.pdf  
-  Complete proof and definitions
+- `Leibniz Integral Rule.pdf`  
+  Definitions and complete proof
 
 ## Author
 
@@ -40,5 +40,4 @@ Moussa El Moussaoui
 
 ## Purpose
 
-This work is intended for educational and academic use, especially for
-students studying real analysis, measure theory, and integration.
+This work is intended for educational and academic use.
