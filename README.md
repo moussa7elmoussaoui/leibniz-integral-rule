@@ -16,7 +16,7 @@ The following topics are covered:
 - Continuity of parameter-dependent integrals
 - Differentiation under the integral sign for one real variable
 - Partial differentiation under the integral sign in several variables
-- Use of domination arguments and convergence theorems
+- Use of Dominated Convergence Theorem
 
 All assumptions are stated explicitly and all proofs are written in a
 detailed and rigorous way.
@@ -32,7 +32,6 @@ detailed and rigorous way.
 ## Files
 
 - `Leibniz Integral Rule.pdf`  
-  Definitions and complete proof
 
 ## Author
 
